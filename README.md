@@ -1,6 +1,6 @@
 # Love Letters
 
-This is a smalle python programme
+This is a small python programme
 I use it to learn new skills
 
 I do not own the love letters name
